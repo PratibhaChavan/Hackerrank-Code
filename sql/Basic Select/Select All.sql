@@ -1,4 +1,4 @@
-###Select All
+/*Select All
 Query all columns for every row in the CITY table.
 The CITY table is described as follows:
 +-------------+--------------+
@@ -10,7 +10,7 @@ The CITY table is described as follows:
 | DISTRICT    | VARCHAR2(20) |
 | POPULATION  | NUMBER       |
 +-------------+--------------+
-
+*/
 --Solution
 
 SELECT * FROM CITY;
