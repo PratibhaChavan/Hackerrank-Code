@@ -14,5 +14,6 @@ The CITY table is described as follows:
 
 --Solution
 
-SELECT * FROM 
-CITY WHERE COUNTRYCODE='JPN';
+SELECT * 
+FROM CITY 
+WHERE COUNTRYCODE='JPN';
